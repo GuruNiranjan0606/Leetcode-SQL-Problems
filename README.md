@@ -11,4 +11,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/0584-find-customer-referee) |
+| [1625-group-sold-products-by-the-date](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/1625-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
