@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/0596-classes-more-than-5-students) |
 | [0607-sales-person](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/0619-biggest-single-number) |
