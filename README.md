@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/0627-swap-salary) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1625-group-sold-products-by-the-date](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/1664-find-users-with-valid-e-mails) |
 | [1811-fix-names-in-a-table](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/1811-fix-names-in-a-table) |
