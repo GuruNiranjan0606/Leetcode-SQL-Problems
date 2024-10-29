@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/1301-reformat-department-table) |
 | [1338-queries-quality-and-percentage](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/1338-queries-quality-and-percentage) |
+| [1390-average-selling-price](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/1390-average-selling-price) |
 | [1625-group-sold-products-by-the-date](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/1664-find-users-with-valid-e-mails) |
 | [1811-fix-names-in-a-table](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/1811-fix-names-in-a-table) |
