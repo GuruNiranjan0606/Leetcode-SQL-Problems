@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-find-users-with-valid-e-mails](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1734-bank-account-summary-ii](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/1734-bank-account-summary-ii) |
 | [1811-fix-names-in-a-table](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/GuruNiranjan0606/Leetcode-SQL-Problems/tree/master/1877-find-followers-count) |
 <!---LeetCode Topics End-->
